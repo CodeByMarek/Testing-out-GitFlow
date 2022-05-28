@@ -1,1 +1,3 @@
-# Testing-out-GitFlow
+# Testing out GitFlow
+
+Playing with GitFlow
