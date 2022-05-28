@@ -18,6 +18,7 @@ phonebook = {"Emergency": 112, "KFC": 9999, "SEB": 6209999, "SWEDBANK": 6999999,
 
 user_input = str(input("What service do you need? "))
 
+
 #for key in phonebook:
 #    print(key)
 
